@@ -1,0 +1,3 @@
+Issue with installing bundler:
+
+https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma
