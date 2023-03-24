@@ -95,7 +95,7 @@ revision requested by <em>Journal of Economics & Management Strategy</em>
 with Andrew Sweeting, Shen Hui, Dun Jia, and Mario Leccese, new draft coming soon
 
 7. 
-    <span style="color:slateblue;">“Recurring Auctions with Costly Entry,” </span>
+    <span style="color:slateblue;">“Recurring Auctions with Costly Entry: Theory and Evidence,” </span>
 with Qiyao Zhou, draft coming soon
 
 
