@@ -8,13 +8,10 @@
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
-                <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
-              {%- endif -%}
-              {%- if site.middle_name -%}
-                {{- site.middle_name -}}&nbsp;
-              {%- endif -%}
-              {%- if site.last_name -%}
-                {{- site.last_name -}}
+                <span>
+                  {{- site.first_name -}} &nbsp;
+                   {{- site.last_name -}} &nbsp;
+                </span>
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
@@ -43,7 +40,7 @@
                 {% endif %}
               {% endfor %}
 
-              <!-- About -->
+              <!-- About: The Home Page -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
@@ -85,11 +82,19 @@
               </li>
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
-                  {%- if page.title == p.title -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
+                {%- if p.title=='CV' -%}
+                  <a class="nav-link" href="assets/pdf/CV_DENG_SHANGLYU.pdf">{{ p.title }}
+                    {%- if page.title == p.title -%}
+                    <span class="sr-only">(current)</span>
+                    {%- endif -%}
+                  </a>
+                {%- else %}
+                  <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
+                    {%- if page.title == p.title -%}
+                    <span class="sr-only">(current)</span>
+                    {%- endif -%}
+                  </a>
+                {%- endif -%}
               </li>
               {%- endif -%}
               {%- endif -%}

@@ -7,8 +7,11 @@ layout: default
         <header class="post-header">
           <h1 class="post-title">
            {% if site.title == "blank" -%}
-           <span class="font-weight-bold" style="font-family:Cambria">
-              {{ site.first_name }} {{ site.last_name }} | {{ site.Name_in_Chinese }}
+           <span class="font-weight-bold">
+              {{ site.first_name }} {{ site.last_name }} 
+           </span> 
+           <span class="font-weight-bold" style="font-family:STKaiti" >
+              | {{ site.Name_in_Chinese }}
            </span> 
            {%- else -%}{{ site.title }}{%- endif %}
           </h1>
