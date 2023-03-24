@@ -88,6 +88,12 @@
                     <span class="sr-only">(current)</span>
                     {%- endif -%}
                   </a>
+                {%- elsif p.title=='Research' -%} 
+                  <a class="nav-link" href="/#research">{{ p.title }}
+                    {%- if page.title == p.title -%}
+                    <span class="sr-only">(current)</span>
+                    {%- endif -%}
+                  </a>
                 {%- else %}
                   <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
                     {%- if page.title == p.title -%}

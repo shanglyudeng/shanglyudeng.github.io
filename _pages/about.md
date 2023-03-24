@@ -1,18 +1,18 @@
 ---
 layout: about
-title: Research
+title: Home
 permalink: /
 subtitle: <a href='https://econ.umd.edu'>University of Maryland</a>
 
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
-#   address: >
-#     <p class="font-weight-bold">Contact Information:</p>
-#     <p style="font-family:monospace">3114 Tydings Hall</p>
-#     <p style="font-family:monospace">Department of Economics</p>
-#     <p style="font-family:monospace">University of Maryland</p>
+profile:
+  align: left
+  image: Profile_Img_old.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p class="font-weight-bold">Contact Information:</p>
+    <p style="font-family:monospace">sdeng1@umd.edu</p>
+    <p style="font-family:monospace">3114 Tydings Hall</p>
+    <p style="font-family:monospace">College Park, 20742</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -34,16 +34,21 @@ Here is a link to my
 </a>
     
 
-<!-- &nbsp;\
+&nbsp;\
+&nbsp;\
+&nbsp;\
+&nbsp;\
+&nbsp;\
+&nbsp;\
 &nbsp;\
 &nbsp;\
 &nbsp;
 
- -->
+
 
 <p style="font-family:Papyrus; font-size:0.5pt;"> &nbsp;</p>
 
-<h2> Working Papers </h2>
+<h2> <a id="research">Working Papers</a> </h2>
 
 1. 
 <a href='https://drive.google.com/file/d/16BiQO4juKlCLuWLD3vbwgocy5gQzvOJm/view'> 
