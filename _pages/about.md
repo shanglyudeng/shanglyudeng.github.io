@@ -6,7 +6,7 @@ subtitle: <a href='https://econ.umd.edu'>University of Maryland</a>
 
 profile:
   align: right
-  image: Profile_Img_old.jpg
+  image: Profile_Pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p class="font-weight-bold">Contact Information:</p>
