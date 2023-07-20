@@ -11,7 +11,9 @@ profile:
   address: >
     <p class="font-weight-bold">Contact Information:</p>
     <p style="font-family:monospace">shanglyudeng@gmail.com</p>
-    <p style="font-family:monospace">E21B, Room 3023</p>
+    <p style="font-family:monospace">Room 3023, E21B</p>
+    <p style="font-family:monospace">Avenida da Universidade</p>
+    <p style="font-family:monospace">Taipa, Macau, China</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
