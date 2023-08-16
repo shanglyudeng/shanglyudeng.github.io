@@ -16,7 +16,7 @@ Discussion Section of Microeconomic Analysis (core Ph.D. course), University of 
 
 2. The Economics of Information and Uncertainty (undergraduate), University of Maryland, Summer 2020
 
-3. Law and Economics (undergraduate), University of Maryland, Spring 2019, Fall 2019, Spring 2020, Spring2021, and Spring 2022
+3. Law and Economics (undergraduate), University of Maryland, Spring 2019, Fall 2019, Spring 2020, Spring 2021, and Spring 2022
 
 4. Game Theory (undergraduate), University of Maryland, Fall 2018
 
