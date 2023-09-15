@@ -36,6 +36,9 @@ My research interests include Applied Microeconomic Theory and Industrial Organi
         Curriculum Vitae.
 </a>
     
+#### News
 
-
-
+Greater Bay Area Market Design Workshop 2023
+ at the University of Macau, October 16th and 17th.
+---
+[Website and free registration](https://inaciobo.com/workshop2023/)
