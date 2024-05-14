@@ -12,8 +12,7 @@ profile:
     <p class="font-weight-bold">Contact Information:</p>
     <p>shanglyudeng@gmail.com</p>
     <p>Room 3023, E21B</p>
-    <p>Avenida da Universidade</p>
-    <p>Taipa, Macau, China</p>
+    <p>University of Macau</p>
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
