@@ -9,8 +9,11 @@ nav_order: 5
 
 <h2> Instructor </h2>
 1. Industrial Economics (undergraduate), University of Macau, Fall 2024
+
 2. Game Theory (undergraduate), University of Macau, Fall 2023 and 2024
+
 3. Law and Economics (undergraduate), University of Macau, Fall 2023 and 2024
+
 4. Law and Economics (undergraduate), University of Maryland, Summer 2021 and 2022
 
 <h2> Teaching Assistant </h2>
