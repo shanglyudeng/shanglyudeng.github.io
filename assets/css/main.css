@@ -119,6 +119,10 @@ strong {
   font-family: "Cardo", serif, Times New Roman, serif;
 }
 
+strong {
+  font-weight: 700;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
