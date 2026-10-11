@@ -29,7 +29,7 @@ M.A., Finance, Peking University, 2018
 B.A., Finance, Peking Univeristy, 2016  
 B.S., Statistics, Peking Univeristy, 2016 -->
 
-I am an Assistant Professor in Economics at the <a href='https://www.um.edu.mo/'>University of Macau</a>. 
+I am an Assistant Professor of Economics at the <a href='https://www.um.edu.mo/'>University of Macau</a>. 
 
 My research interests include **Applied Microeconomic Theory** and **Industrial Organization**. Here is a link to my
 <a href='assets/pdf/CV_DENG_SHANGLYU.pdf'>
